@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "date": "2015-01-01",
+        "nombre_abonnes": 1,
+        "nombre_de_vues": 2
+    },
+    {
+        "id": 1,
+        "date": "2019-01-01",
+        "nombre_abonnes": 5,
+        "nombre_de_vues": 70
+    },
+    {
+        "id": 2,
+        "date": "2021-01-01",
+        "nombre_abonnes": 11,
+        "nombre_de_vues": 200
+    },
+    {
+        "id": 3,
+        "date": "2024-10-15",
+        "nombre_abonnes": 17,
+        "nombre_de_vues": 749
+    },
+    {
+        "id": 4,
+        "date": "2024-10-16",
+        "nombre_abonnes": 17,
+        "nombre_de_vues": 615
+    }
+]

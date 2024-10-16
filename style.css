@@ -1,0 +1,73 @@
+body {
+    background-color: #1a1a1a;
+    color: #fff;
+}
+
+/* Liens */
+a {
+    color: #fff;
+}
+
+/* Liens visités */
+a:visited {
+    color: #aaa;
+}
+
+/* Liens survolés */
+a:hover {
+    color: #ddd;
+}
+
+/* Titres */
+h1, h2, h3, h4, h5, h6 {
+    color: #fff;
+}
+
+/* Liens dans les titres */
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    color: #fff;
+}
+
+/* Texte de paragraphe */
+p {
+    color: #ddd;
+}
+
+/* Liens dans les paragraphes */
+p a {
+    color: #ddd;
+}
+
+/* Liens visités dans les paragraphes */
+p a:visited {
+    color: #aaa;
+}
+
+/* Liens survolés dans les paragraphes */
+p a:hover {
+    color: #fff;
+}
+
+/* Exemple de style pour les éléments de formulaire (à personnaliser selon vos besoins) */
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea {
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #666;
+}
+
+input[type="submit"],
+button {
+    background-color: #444;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover,
+button:hover {
+    background-color: #555;
+}
